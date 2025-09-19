@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="app icon.png">
-    <img src="assets/images/app_icon.png" alt="Motogen Logo" width="120">
+    <img src="app icon.png" alt="Motogen Logo" width="120">
   </a>
 </p>
 
