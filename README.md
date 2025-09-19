@@ -104,7 +104,7 @@ Motogen is a live project with exciting updates on the horizon to enhance functi
 These features will build on the solid foundation, ensuring Motogen remains a leader in smart car maintenance.
 
 ## 📬 Contact and Resources
-- **GitHub Repository**: [https://github.com/Mahan-Saljoughian/MotoGen](https://github.com/Mahan-Saljoughian/MotoGen)  
+- **GitHub Repository**: [https://github.com/Mahan-Saljoughian/MotoGen-App](https://github.com/Mahan-Saljoughian/MotoGen-App)  
 - **Website**: [motogenapp.ir](https://motogenapp.ir/)  
 - **Contact**: For app-related questions or feedback, email [renovateam2024@gmail.com](mailto:renovateam2024@gmail.com)
 
