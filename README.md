@@ -1,7 +1,7 @@
 # 🚗 Motogen: Intelligent Car Maintenance Companion
 
 <p align="center">
-  <a href="assets/images/app_icon.png">
+  <a href="app icon.png">
     <img src="assets/images/app_icon.png" alt="Motogen Logo" width="120">
   </a>
 </p>
