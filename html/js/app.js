@@ -97,10 +97,10 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
     document.body.appendChild(guide);
 
-    document.getElementById('guideClose').addEventListener('click', () => {
-      guide.remove();
-      // Replace below with redirect to your Flutter webapp JS
-      window.location.href = '/main.dart.js'; // Or your correct GitHub Pages link
-    });
+  document.getElementById('guideClose').addEventListener('click', () => {
+  guide.remove();
+  window.location.href = 'https://mahan-saljoughian.github.io/motogen-webApp/';
+});
+
   }
 });

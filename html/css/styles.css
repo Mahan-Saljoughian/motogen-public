@@ -172,6 +172,7 @@ h1 {
   border: 1px solid rgba(255, 255, 255, .15);
   border-radius: 20px;
   width: fit-content;
+   margin-bottom: 16px;
 }
 
 .availability-badge svg {
